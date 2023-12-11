@@ -1,0 +1,188 @@
+Last login: Mon Nov  6 12:05:14 on ttys000
+saijug@SAIJUs-MacBook-Air ~ % cd "/Users/saijug/Java Programs Shortcut/Java"
+saijug@SAIJUs-MacBook-Air Java % javac ContinueWhileProgram.java               
+saijug@SAIJUs-MacBook-Air Java % java ContinueWhileProgram                     
+num =10
+num =9
+num =8
+num =7
+num =5
+num =4
+num =3
+num =2
+num =1
+saijug@SAIJUs-MacBook-Air Java % javac ContinueDWhileProgram.java
+ContinueDWhileProgram.java:16: error: ';' expected
+	}while (i<=10)
+	              ^
+1 error
+saijug@SAIJUs-MacBook-Air Java % javac ContinueDWhileProgram.java
+saijug@SAIJUs-MacBook-Air Java % java ContinueDWhileProgram    
+0
+1
+2
+3
+4
+6
+7
+8
+9
+10
+saijug@SAIJUs-MacBook-Air Java %    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+saijug@SAIJUs-MacBook-Air Java % javac ContinueDWhileProgram.java            
+saijug@SAIJUs-MacBook-Air Java % java ContinueDWhileProgram      
+0
+1
+2
+3
+4
+6
+7
+8
+9
+10
+saijug@SAIJUs-MacBook-Air Java % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+saijug@SAIJUs-MacBook-Air Java % 
+saijug@SAIJUs-MacBook-Air Java % javac ArrayProgram.java
+saijug@SAIJUs-MacBook-Air Java % java ArrayProgram
+10
+20
+30
+40
+50
+saijug@SAIJUs-MacBook-Air Java % javac ArrayProgram.java
+saijug@SAIJUs-MacBook-Air Java % java ArrayProgram      
+Array length 5
+10
+20
+30
+40
+50
+saijug@SAIJUs-MacBook-Air Java % javac StringArrayProgram.java
+saijug@SAIJUs-MacBook-Air Java % java StringArrayProgram
+Array length5
+Name [0]Renu
+Name [1]Richu
+Name [2]Jay
+Name [3]Manu
+Name [4]Archa
+saijug@SAIJUs-MacBook-Air Java % javac StringArrayProgram.java
+saijug@SAIJUs-MacBook-Air Java % java StringArrayProgram      
+Array length5
+Name [0] - Renu
+Name [1] - Richu
+Name [2] - Jay
+Name [3] - Manu
+Name [4] - Archa
+saijug@SAIJUs-MacBook-Air Java % javac MultiDimIntArrayProgram.java
+saijug@SAIJUs-MacBook-Air Java % java MultiDimIntArrayProgram
+30 
+5 
+10 
+20 
+20 
+20 
+saijug@SAIJUs-MacBook-Air Java % javac MultiDimIntArrayProgram.java
+saijug@SAIJUs-MacBook-Air Java % java MultiDimIntArrayProgram      
+30 5 10 20 20 20 %                                                              saijug@SAIJUs-MacBook-Air Java % javac MultiDimIntArrayProgram.java
+saijug@SAIJUs-MacBook-Air Java % java MultiDimIntArrayProgram      
+30 5 10 
+20 20 20 
+saijug@SAIJUs-MacBook-Air Java % javac MultiDimIntArrayProgram.java
+saijug@SAIJUs-MacBook-Air Java % java MultiDimIntArrayProgram      
+30 
+5 
+10 
+20 
+20 
+20 
+saijug@SAIJUs-MacBook-Air Java % javac MultiDimIntArrayProgram.java
+saijug@SAIJUs-MacBook-Air Java % java MultiDimIntArrayProgram      
+30 5 10 
+20 20 20 
+saijug@SAIJUs-MacBook-Air Java % javac MultiDimStringArrayProgram.java
+saijug@SAIJUs-MacBook-Air Java % java MultiDimStringArrayProgram
+IT HR FINANCE 
+DEV QA DEV Ops 
+saijug@SAIJUs-MacBook-Air Java % 
