@@ -17,6 +17,7 @@ package obsqura.mavenProject;
 	       try {
 	            FileInputStream fileInputStream = new FileInputStream(new File(filePath));
 	            // Your file reading code here
+	            System.out.println("Test for GIT repository commit");
 	        } 
 	       
 	       catch (FileNotFoundException e) {
